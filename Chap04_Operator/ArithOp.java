@@ -1,5 +1,7 @@
+package Chap04_Operator;
+
 class ArithOp {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         int n1 = 7;
         int n2 = 3;
 
